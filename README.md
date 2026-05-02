@@ -40,7 +40,7 @@ npm run dev
 The application will launch on **http://localhost:3000/**.
 
 ## Key Features & Constraints
-- **Strict Human-Like Polish**: Features an accessible, classic dark theme with a focus on simplicity, responsiveness, and usability.
+- **Strict Polish**: Features an accessible, classic dark theme with a focus on simplicity, responsiveness, and usability.
 - **Top 'N' Priority Algorithm**: Prioritizes notifications by dynamic scoring: `Placement(3) > Result(2) > Event(1)` breaking ties via recency.
 - **Persistent Tracker**: Uses local browser caching (`localStorage`) to separate unread/new notifications from previously viewed updates.
 - **Bypassing Restrictive Constraints**: Transparent client-side multipage concatenation for loading beyond the API's standard limit (up to 20 notifications per page).
